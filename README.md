@@ -31,6 +31,18 @@ lalu pilih 'New Project', beri nama project dan tempatkan sesuai keinginan kalia
 
 Masukkan syntax(perintah) menggunakan bahasa pemograman Python.
 
+> r = input("Masukkan jari-jari lingkaran : ")
+> 
+> pi = 3.14
+> 
+> l = pi * int(r) * int(r)
+> 
+> k = 2 * pi * int(r)
+> 
+> print("Luas Lingkaran     : ",l)
+> 
+> print("Keliling Lingkaran : ",k)
+
 ![]()
 
 Kemudian Run dan Input nilainya, nanti akan muncul hasilnya seperti ini.
