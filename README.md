@@ -48,3 +48,5 @@ Masukkan syntax(perintah) menggunakan bahasa pemograman Python.
 Kemudian Run dan Input nilainya, nanti akan muncul hasilnya seperti ini.
 
 ![]()
+
+# Flowchart dan Penjelasan Program
