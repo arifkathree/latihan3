@@ -53,7 +53,7 @@ Kemudian Run dan Input nilainya, nanti akan muncul hasilnya seperti ini.
 
 # Flowchart
 
-![fc](gambar/fc.png)
+![fc](gambar/fch.png)
 
 ## Penjelasannya
 
@@ -68,7 +68,7 @@ Kemudian Run dan Input nilainya, nanti akan muncul hasilnya seperti ini.
 
 Setelah semua proses selesai, run maka akan tampil seperti ini.
 
-![fch](gambar/fch.png)
+![fch](gambar/fchrun.png)
 
 # Screenshots Praktikum Pertemuan 6
 Ini adalah Capture Project yang dikerjakan saat pertemuan ke-6 Mata Kuliah Bahasa Pemograman.
